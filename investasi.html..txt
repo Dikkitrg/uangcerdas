@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Panduan Memulai Investasi untuk Pemula</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      max-width: 800px;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    ul {
+      margin-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Panduan Memulai Investasi untuk Pemula</h1>
+
+  <p>Investasi adalah cara yang tepat untuk mengembangkan kekayaan dalam jangka panjang. Namun, bagi pemula, dunia investasi bisa terasa rumit. Artikel ini akan memandu Anda melalui langkah-langkah pertama untuk memulai investasi.</p>
+
+  <h2>Apa itu Investasi?</h2>
+  <p>Investasi adalah tindakan menanamkan uang dengan harapan mendapatkan keuntungan di masa depan. Ada berbagai jenis investasi, mulai dari saham, obligasi, reksa dana, hingga cryptocurrency. Setiap jenis investasi memiliki tingkat risiko dan potensi keuntungan yang berbeda.</p>
+
+  <h2>Jenis-Jenis Investasi</h2>
+  <ul>
+    <li><strong>Saham</strong>: Membeli saham berarti membeli sebagian kepemilikan di sebuah perusahaan.</li>
+    <li><strong>Reksa Dana</strong>: Cocok bagi pemula karena dikelola oleh manajer investasi.</li>
+    <li><strong>Obligasi</strong>: Surat utang yang diterbitkan oleh perusahaan atau pemerintah.</li>
+    <li><strong>Crypto</strong>: Investasi digital seperti Bitcoin dan Ethereum.</li>
+  </ul>
+
+  <h2>Langkah-Langkah Memulai Investasi</h2>
+  <ul>
+    <li><strong>Tentukan Tujuan Keuangan Anda</strong></li>
+    <li><strong>Pilih Investasi Sesuai Risiko</strong></li>
+    <li><strong>Gunakan Platform Terpercaya</strong></li>
+    <li><strong>Diversifikasi Portofolio</strong></li>
+    <li><strong>Tetap Konsisten dan Sabar</strong></li>
+  </ul>
+
+  <h2>Kesimpulan</h2>
+  <p>Investasi adalah cara yang bagus untuk membangun kekayaan, tetapi penting untuk memulai dengan pengetahuan yang tepat. Pilih jenis investasi yang sesuai dengan tujuan dan profil risiko Anda, serta tetap konsisten dalam berinvestasi.</p>
+</body>
+</html>
